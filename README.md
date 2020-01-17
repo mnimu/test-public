@@ -1,3 +1,3 @@
 # test-public
 
-just test
+just test 2
